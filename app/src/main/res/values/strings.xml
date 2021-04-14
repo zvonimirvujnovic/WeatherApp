@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WeatherAppVujnovic</string>
+
+    <string name="main_til_hint">Enter city</string>
+    <string name="main_submit_btn_text">Search</string>
+    <string name="min_temperature">Min temperature</string>
+    <string name="max_temperature">Max temperature</string>
+    <string name="for_more_info_please_visit">For more info please visit</string>
+    <string name="please_wait_text">Please wait…</string>
+    <string name="placeholder_value">-</string>
+    <string name="current_temperature">Current temperature</string>
+    <string name="pressure_text">Pressure</string>
+    <string name="humidity_text">Humidity</string>
+    <string name="visibility_text">Visibility</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="measure_location">Measure location</string>
+    <string name="weather_description">Weather description</string>
+
+    <string name="temperature">%.2f ℃</string>
+    <string name="humidity">%d %%</string>
+    <string name="speed">%.2f m/s</string>
+    <string name="visibility">%d m</string>
+    <string name="pressure">%d hPa</string>
+
+    <string name="ok_text">OK</string>
+</resources>
